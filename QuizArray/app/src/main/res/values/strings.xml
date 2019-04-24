@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizArray</string>
+    <string name="tvJbBenar">Alhamdulilah Jawaban Anda Sudah Benar</string>
+    <string name="tvLanjut">Silahkan Lanjut Soal Berikutnya</string>
+    <string name="tvJbSalah">Jawaban Anda Masih salah</string>
+</resources>
